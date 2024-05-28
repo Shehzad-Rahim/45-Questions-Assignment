@@ -4,4 +4,8 @@
 
 let myFriends:string[] = ['Wasif', 'Rafay', 'Usman', 'Madiha', 'Iqra'];
 
-myFriends.forEach(name => console.log(name));
+console.log(myFriends[0]);
+console.log(myFriends[1]);
+console.log(myFriends[2]);
+console.log(myFriends[3]);
+console.log(myFriends[4]);
